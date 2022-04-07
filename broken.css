@@ -1,0 +1,26 @@
+body {
+    font-family: Roboto, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    justify-content:center;
+    align-items:center;
+    background-color: #1F2937;
+    color: white;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: #F9FAF8;
+}
+
+p {
+    font-size: 18px;
+    font-weight: #E5E7EB;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 18px;
+}
